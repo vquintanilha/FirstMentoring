@@ -1,0 +1,13 @@
+C:\projects\mentoria\Victor\Primeiro projeto\Intro\Intro\bin\Debug\netcoreapp3.1\Intro.exe
+C:\projects\mentoria\Victor\Primeiro projeto\Intro\Intro\bin\Debug\netcoreapp3.1\Intro.deps.json
+C:\projects\mentoria\Victor\Primeiro projeto\Intro\Intro\bin\Debug\netcoreapp3.1\Intro.runtimeconfig.json
+C:\projects\mentoria\Victor\Primeiro projeto\Intro\Intro\bin\Debug\netcoreapp3.1\Intro.runtimeconfig.dev.json
+C:\projects\mentoria\Victor\Primeiro projeto\Intro\Intro\bin\Debug\netcoreapp3.1\Intro.dll
+C:\projects\mentoria\Victor\Primeiro projeto\Intro\Intro\bin\Debug\netcoreapp3.1\Intro.pdb
+C:\projects\mentoria\Victor\Primeiro projeto\Intro\Intro\obj\Debug\netcoreapp3.1\Intro.csprojAssemblyReference.cache
+C:\projects\mentoria\Victor\Primeiro projeto\Intro\Intro\obj\Debug\netcoreapp3.1\Intro.AssemblyInfoInputs.cache
+C:\projects\mentoria\Victor\Primeiro projeto\Intro\Intro\obj\Debug\netcoreapp3.1\Intro.AssemblyInfo.cs
+C:\projects\mentoria\Victor\Primeiro projeto\Intro\Intro\obj\Debug\netcoreapp3.1\Intro.csproj.CoreCompileInputs.cache
+C:\projects\mentoria\Victor\Primeiro projeto\Intro\Intro\obj\Debug\netcoreapp3.1\Intro.dll
+C:\projects\mentoria\Victor\Primeiro projeto\Intro\Intro\obj\Debug\netcoreapp3.1\Intro.pdb
+C:\projects\mentoria\Victor\Primeiro projeto\Intro\Intro\obj\Debug\netcoreapp3.1\Intro.genruntimeconfig.cache

@@ -1,0 +1,5 @@
+C:\projects\mentoria\Victor\Primeiro projeto\IntroCmd\bin\Debug\net5.0\publish\IntroCmd.exe
+C:\projects\mentoria\Victor\Primeiro projeto\IntroCmd\bin\Debug\net5.0\publish\IntroCmd.dll
+C:\projects\mentoria\Victor\Primeiro projeto\IntroCmd\bin\Debug\net5.0\publish\IntroCmd.deps.json
+C:\projects\mentoria\Victor\Primeiro projeto\IntroCmd\bin\Debug\net5.0\publish\IntroCmd.runtimeconfig.json
+C:\projects\mentoria\Victor\Primeiro projeto\IntroCmd\bin\Debug\net5.0\publish\IntroCmd.pdb

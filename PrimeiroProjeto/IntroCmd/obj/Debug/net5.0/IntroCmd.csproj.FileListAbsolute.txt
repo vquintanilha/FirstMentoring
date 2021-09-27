@@ -1,0 +1,16 @@
+C:\projects\mentoria\Victor\Primeiro projeto\IntroCmd\bin\Debug\net5.0\IntroCmd.exe
+C:\projects\mentoria\Victor\Primeiro projeto\IntroCmd\bin\Debug\net5.0\IntroCmd.deps.json
+C:\projects\mentoria\Victor\Primeiro projeto\IntroCmd\bin\Debug\net5.0\IntroCmd.runtimeconfig.json
+C:\projects\mentoria\Victor\Primeiro projeto\IntroCmd\bin\Debug\net5.0\IntroCmd.runtimeconfig.dev.json
+C:\projects\mentoria\Victor\Primeiro projeto\IntroCmd\bin\Debug\net5.0\IntroCmd.dll
+C:\projects\mentoria\Victor\Primeiro projeto\IntroCmd\bin\Debug\net5.0\ref\IntroCmd.dll
+C:\projects\mentoria\Victor\Primeiro projeto\IntroCmd\bin\Debug\net5.0\IntroCmd.pdb
+C:\projects\mentoria\Victor\Primeiro projeto\IntroCmd\obj\Debug\net5.0\IntroCmd.csprojAssemblyReference.cache
+C:\projects\mentoria\Victor\Primeiro projeto\IntroCmd\obj\Debug\net5.0\IntroCmd.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\mentoria\Victor\Primeiro projeto\IntroCmd\obj\Debug\net5.0\IntroCmd.AssemblyInfoInputs.cache
+C:\projects\mentoria\Victor\Primeiro projeto\IntroCmd\obj\Debug\net5.0\IntroCmd.AssemblyInfo.cs
+C:\projects\mentoria\Victor\Primeiro projeto\IntroCmd\obj\Debug\net5.0\IntroCmd.csproj.CoreCompileInputs.cache
+C:\projects\mentoria\Victor\Primeiro projeto\IntroCmd\obj\Debug\net5.0\IntroCmd.dll
+C:\projects\mentoria\Victor\Primeiro projeto\IntroCmd\obj\Debug\net5.0\ref\IntroCmd.dll
+C:\projects\mentoria\Victor\Primeiro projeto\IntroCmd\obj\Debug\net5.0\IntroCmd.pdb
+C:\projects\mentoria\Victor\Primeiro projeto\IntroCmd\obj\Debug\net5.0\IntroCmd.genruntimeconfig.cache
